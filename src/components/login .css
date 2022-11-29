@@ -1,0 +1,27 @@
+.login{
+border: 2px solid azure;
+box-shadow: 0 2px 4px rgp(0 0 0 / 10%),0 8px 16px rgp(0 0 0 / 10%);
+border-radius: 0px;
+padding: 200px 500px ;
+align-items: center;
+text-align: center;
+}
+.body{
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url("./image/istockphoto-1271522601-612x612.jpg");
+    background-size: cover;
+    justify-content: space-evenly;
+    text-align: center;
+  }
+  @media (max-width: 420px) {
+    .body {
+      height: 100%;
+    }
+    .login {
+      padding: 2px;
+    }
+  }
+  

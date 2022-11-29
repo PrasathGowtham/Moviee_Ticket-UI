@@ -1,0 +1,17 @@
+
+.OpText{
+    text-align: center;
+    color:  #c5c5c5;
+   
+       font-family: 'Niconne', cursive;
+    
+  text-shadow: 1px 1px 0px #eb452b, 1.2px 1.2px 0px #efa032, 1.4px 1.4px 0px #46b59b, 1.6px 1.6px 0px #017e7f, 1.8px 1.8px 0px #052939, 2px 2px 0px #c11a2b, 2.2px 2.2px 0px #c11a2b, 2.4px 2.4px 0px #c11a2b, 2.6px 2.6px 0px #c11a2b
+  }
+  
+  p{
+  text-align: center;
+  font-family: "Helvetica";
+  font-size:23px;
+  padding-top: 5px;
+  }
+  

@@ -1,0 +1,19 @@
+html,body,#root,.App{
+    height: 100% !important;
+    width: 100% !important;
+}
+.row{
+    margin: 0px !important;
+}
+.booking{
+    width: 33.33%;
+    max-width: auto;
+    padding: 20px;
+}
+.css-di4d8m-MuiPaper-root-MuiCard-root{
+    max-width: 100% !important;
+    width: 100% !important;
+}
+.common{
+background: rgb(248 249 250);
+}

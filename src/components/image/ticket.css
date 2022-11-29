@@ -1,0 +1,40 @@
+.seat{
+    height: 30px;
+    width: 30px;
+    border: 1px solid grey;
+    padding: 0px !important;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.seat:hover{
+background-color: greenyellow;
+border: 1px solid greenyellow;
+}
+.selected{
+    background-color: greenyellow;
+    border: 1px solid greenyellow;
+    
+}
+.disabled_seat{
+    pointer-events: none;
+    border: 0px solid grey;
+}
+.alignseat{
+    padding-left: 200px;
+ padding-top: 100px;
+}
+.timing{
+    float: left;
+}
+.screen{
+
+text-align: center;
+}
+
+.screeninner{
+    border: 1px solid #f1f1f1;
+    border-left: 11px solid #f1f1f1;
+    background: linear-gradient(to right ,#bebcb8, #471b1b9c, #3e3b3b, #000000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
